@@ -1,0 +1,6 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb://0.0.0.0:27017/cloud",
+  "secretKey": "Graduate-Work",
+  "filePath": "C:\\Code\\cloud-disk\\server\\files"
+}
