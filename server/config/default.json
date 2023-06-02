@@ -1,6 +1,6 @@
 {
   "serverPort": 5000,
-  "dbUrl": "mongodb://0.0.0.0:27017/cloud",
+  "dbUrl": "mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.9.1",
   "secretKey": "Graduate-Work",
   "filePath": "C:\\Code\\cloud-disk\\server\\files"
 }
